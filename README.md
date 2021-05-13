@@ -1,5 +1,5 @@
 # Mutiagent-master_mc
-Designed agents for the classic version of Pacman, including ghosts. Along the way, implement both minimax and expectimax search and evaluation function design.
+Designed agents for the classic version of Pacman, including ghosts. 
 
 Pacman, now with ghosts.
 Minimax, Expectimax,
@@ -7,7 +7,7 @@ Evaluation.
 
 # Introduction
 
-In this project, design agents for the classic version of Pacman, including ghosts.
+In this project, design agents for the classic version of Pacman, including ghosts. Implement both minimax and expectimax search and evaluation function design.
 
 # Implemented
 
