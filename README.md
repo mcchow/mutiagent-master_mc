@@ -11,7 +11,7 @@ In this project, design agents for the classic version of Pacman, including ghos
 
 # Implemented
 
-1.minimax and expectimax search
+1.Minimax and expectimax search
 
-2.evaluation function design.
+2.Evaluation function design.
 
