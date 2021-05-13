@@ -6,6 +6,7 @@ Minimax, Expectimax,
 Evaluation.  
 
 Introduction
+
 In this project, design agents for the classic version of Pacman, including ghosts.
 
 Implemented:
